@@ -336,6 +336,7 @@
       ],
       "extensions": {
       }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -350,8 +351,7 @@
         "Taboo",
         "Videos"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -366,8 +366,7 @@
         "floki",
         "nfts"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -382,8 +381,7 @@
         "viking floki",
         "nfts"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -398,8 +396,7 @@
         "meta mark",
         "nfts"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -414,8 +411,7 @@
         "doge",
         "nfts"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -432,8 +428,7 @@
         "meta",
         "Facebook"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -448,8 +443,7 @@
         "videos",
         "payment"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -656,8 +650,7 @@
       "name": "RoyalPangolins",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DNmxHPgeVLSofyAriirHybKoNx1baM2ufiHKs1W7YyPc/logo.png",
-      "tags": [
-      ],
+      "tags": [],
       "extensions": {
         "website": "https://royalpangolins.io/",
         "Discord": "https://discord.gg/XvjxsRzK",
@@ -7052,8 +7045,7 @@
         "discord": "https://discord.gg/gopartyparrot",
         "comment": ""
       },
-      "tags": [
-      ]
+      "tags": []
     },
     {
       "chainId": 101,
@@ -12415,8 +12407,7 @@
         "nft",
         "community-token"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -22525,8 +22516,7 @@
       "name": "Magic Square",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MSQTxnsq8t94gEqZ42a6mxuw11LBYWF4J5hy84GaECb/logo.svg",
-      "tags": [
-      ],
+      "tags": [],
       "extensions": {
         "website": "https://magicsquare.io/",
         "telegram": "https://t.me/Magicsquareio",
@@ -22974,8 +22964,7 @@
         "Metaverse",
         "Universe"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -22988,8 +22977,7 @@
         "social-token",
         "meme-token"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -23611,8 +23599,7 @@
         "Meme",
         "Social"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -23763,8 +23750,7 @@
         "Meme",
         "community"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -24718,8 +24704,7 @@
       "name": "Mend",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ch9NFVk5sqEPQHtw2gJVgnHfTm7FW1JspYwc7SxLi6q3/logo.png",
-      "tags": [
-      ],
+      "tags": [],
       "extensions": {
         "website": "https://mend.house",
         "twitter": "https://twitter.com/mendappinc"
@@ -24869,3 +24854,21 @@
     "patch": 2
   }
 }
+{
+  "chainId": 101,
+  "address": "STMSXv13iwhDxH2MZa5bTr1pSsn7qH5VRKbuJvMzvkm",
+  "symbol": "STM",
+  "name": "Soltama",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/STMSXv13iwhDxH2MZa5bTr1pSsn7qH5VRKbuJvMzvkm/logo.png ",
+  "tags": [
+    "meme",
+    "Nft"
+     "Platform"
+  ],
+  "extensions": {
+    "Website": "http://www.soltama.com/"
+    "twitter": "https://twitter.com/Soltamaworld",
+    "youtube": "https://www.youtube.com/channel/UC7z99U3JXGPLXOeknnHn5SA",
+    "description": "Soltama is an iconic character of soul in solanachain bring good power for people with blockchain technology DEX ,Mobile Application,Nft,Game."
+  }
